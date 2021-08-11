@@ -1,0 +1,6 @@
+{
+"port":5500,
+"jwtSecret":"victor proger",
+"mongoUri":"mongodb+srv://victor:1234qwer@cluster0.54nsu.mongodb.net/app?retryWrites=true&w=majority",
+"baseUrl":"http://localhost:5500"
+}
